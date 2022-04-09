@@ -1,2 +1,2 @@
-# matplotlib
-matplotlib_pyplot tutorial
+# python
+python tutorial
