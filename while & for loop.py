@@ -1,4 +1,4 @@
-# while condition
+# while loop
 
 condition = 1
 while condition < 10:
